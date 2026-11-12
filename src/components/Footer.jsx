@@ -166,7 +166,7 @@ export default function Footer() {
 
       <div className="relative border-t border-gray-800/80">
         <div className="max-w-6xl mx-auto px-6 sm:px-10 lg:px-16 py-6 flex flex-col sm:flex-row items-center justify-center gap-2 text-xs text-gray-500">
-          <p>© 2026 Fournders.id — All rights reserved. tes</p>
+          <p>© 2026 Fournders.id — All rights reserved.</p>
         </div>
       </div>
     </footer>
